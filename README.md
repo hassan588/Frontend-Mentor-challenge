@@ -1,4 +1,4 @@
-#See the site right here!!  https://hassan588.github.io/Frontend-Mentor-challenge/
+#
 # Frontend Mentor - FAQ accordion card solution
 
 
@@ -11,9 +11,7 @@ Users should be able to:
 - Hide/Show the answer to a question when the question is clicked
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://hassan588.github.io/Frontend-Mentor-challenge/)
 
 ## My process
 It took me three days to build this site and it is the first site I've built from scratch so you may see some problems.
