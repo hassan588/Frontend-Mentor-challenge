@@ -11,7 +11,7 @@ Users should be able to:
 - Hide/Show the answer to a question when the question is clicked
 
 ### Links
-- Live Site URL: [Add live site URL here](https://hassan588.github.io/Frontend-Mentor-challenge/)
+- Live Site URL: [See my site!!](https://hassan588.github.io/Frontend-Mentor-challenge/)
 
 ## My process
 It took me three days to build this site and it is the first site I've built from scratch so you may see some problems.
@@ -40,6 +40,6 @@ I'm going to focus on web development because I enjoy it, especially responsiven
 
 ## Author
 
-- Website - [Hassan]( https://hassan588.github.io/Frontend-Mentor-challenge/)
--Instagram-(https://www.instagram.com/h.kd__o/)
+
+[My instagram](https://www.instagram.com/h.kd__o/)
 
