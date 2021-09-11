@@ -1,0 +1,61 @@
+html{
+    background: #12c2e9;  /* fallback for old browsers */
+background-color:-webkit-linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+background:linear-gradient(to bottom, hsl(356, 90%, 64%), #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background-repeat:no-repeat;
+background-color: #12c2e9;
+
+}
+.h2text{
+    display: flex;
+    justify-content: center;
+    font-family: 'Kumbh Sans', sans-serif;
+    
+}
+.myH3{
+    font-family: 'Kumbh Sans', sans-serif;
+
+}
+.container{
+    grid-template-columns: 2fr 2fr;
+    background-color: blanchedalmond;
+    margin: 100px;
+    border-radius: 30px;
+}
+.subcon{
+    /*border: black solid 2px;*/
+    border-bottom: 2px solid navy;
+    border-radius: 30px;
+    text-align: center;
+    /*margin: 40px;*/
+    /*margin-left: 39vw;*/
+}
+.MYimg{
+    display: grid;
+    grid-template-rows:10vh;
+    margin: 20px;
+    margin-bottom: 20vh;
+}
+
+.ans{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.myH3{
+    cursor: pointer;
+}
+
+.subdiv{
+    display: none;
+    cursor: pointer;
+}
+.subdiv2{
+    display: none;
+    cursor: pointer;
+}
+
+.subdiv3{
+    display: none;
+    cursor: pointer;
+}
+
