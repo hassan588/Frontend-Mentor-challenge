@@ -1,4 +1,4 @@
-# Frontend-Mentor-challenge
+
 # Frontend Mentor - FAQ accordion card solution
 
 
